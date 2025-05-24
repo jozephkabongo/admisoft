@@ -1,11 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////
-//                                                                             //
-//              BACKEND DU PROJET ADMISOFT PAR JOSEPH KABONGO                  //
-//              Contact: (+243) 850601805                                      //
-//              Adresse mail: kabongojozeph@gmail.com                          //
-//                                                                             //
-/////////////////////////////////////////////////////////////////////////////////
-
 # PROJET ADMISOFT
     Ce dossier contient la logique compléte du traitement en arrière plan du projet AdmiSoft.
     Il contient les répertoires, et les fichiers nécessaires au bon fonctionnement du système selon les règles actuelles
@@ -54,3 +46,8 @@
     Ces dossiers contiennent tout ce qu'il faut pour créer, récupérer, modifier et supprimer d'une ressource.
 
     Sauf mofifications, le système gérant ce backend fonctionne correctement, à l'exception des cas particuliers et d'imprévus.
+
+## CONTACT 
+    BACKEND DU PROJET ADMISOFT PAR JOSEPH KABONGO
+    Téléphone: (+243) 850601805
+    Adresse mail: kabongojozeph@gmail.com
