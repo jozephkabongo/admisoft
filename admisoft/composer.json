@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jozephkabongo/nokysql": "^1.0",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
